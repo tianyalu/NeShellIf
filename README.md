@@ -24,7 +24,7 @@ if(($NUM1>$NUM2));
 fi
 ```
 实操：  
-![image](https://github.com/tianyalu/NeShellLoopAndFileOpt/blob/master/show/if_compare.png)
+![image](https://github.com/tianyalu/NeShellIf/blob/master/show/if_compare.png)
 
 ### 1.2 逻辑运算符
 运算符 | 说明
@@ -52,7 +52,7 @@ else
 fi
 ```
 实操：  
-![image](https://github.com/tianyalu/NeShellLoopAndFileOpt/blob/master/show/if_dir_exist.png)
+![image](https://github.com/tianyalu/NeShellIf/blob/master/show/if_dir_exist.png)
 
 
 ### 2.2 文件操作
@@ -69,4 +69,4 @@ else
 fi
 ```
 实操：  
-![image](https://github.com/tianyalu/NeShellLoopAndFileOpt/blob/master/show/if_file_exist.png)
+![image](https://github.com/tianyalu/NeShellIf/blob/master/show/if_file_exist.png)
